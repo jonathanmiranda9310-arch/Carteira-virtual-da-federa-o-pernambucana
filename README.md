@@ -141,8 +141,7 @@ Linguagens  CSS e HTML
                 <div class="info"><input type="text" value="30/10/1984" style="width:110px;"> - <input type="text" value="40 anos" style="width:70px;"></div>
             </div>
             <div class="foto">
-                Foto 3x4 <!-- adicione a foto do atleta aqui-->
-
+                Foto 3x4 
             </div>
         </div>
         <table>
